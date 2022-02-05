@@ -31,13 +31,66 @@ There will be one in-class short-answer exam. The exam will draw on material fro
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three quizzes | 15 |
-| Essay I | 15 |
-| In-class exam | 30 |
-| Essay II | 30 |
-| Participation | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay I
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class exam
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay II
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 (including unannounced map quiz)
 
@@ -50,12 +103,65 @@ Graduates must write two essays and two book précis. (A précis is a concise bo
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essay I | 30 |
-| Essay II | 30 |
-| Précis I | 15 |
-| Précis II | 15 |
-| Participation | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay I
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay II
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Précis I
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Précis II
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 (including unannounced map quiz)
