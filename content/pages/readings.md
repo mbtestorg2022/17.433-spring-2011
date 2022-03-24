@@ -38,7 +38,7 @@ Introduction
 {{< tdopen >}}
 
 
-Walt, Steven M. "International Relations: One World, Many Theories." _Foreign Policy_, no. 110 (1998): 29–46. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](http://faculty.maxwell.syr.edu/hpschmitz/PSC124/PSC124Readings/WaltOneWorldManyTheories.pdf))
+Walt, Steven M. "International Relations: One World, Many Theories." _Foreign Policy_, no. 110 (1998): 29–46. ([PDF - 1.7MB](http://faculty.maxwell.syr.edu/hpschmitz/PSC124/PSC124Readings/WaltOneWorldManyTheories.pdf))
 
 ### Recommended
 
@@ -174,9 +174,9 @@ Weathersby, Kathryn. "Stalin and the Decision for War in Korea." In _War and Dem
 
 Cumings, Bruce, and Kathryn Weathersby. "Cumings and Weathersby: An Exchange on Korean War Origins." _Cold War International History Project Bulletin_ 6–7 (1995): 120–3. ([DOC](http://www.google.com/url?sa=t&rct=j&q=cumings%20and%20weathersby%3A%20an%20exchange%20on%20korean%20war%20origins&source=web&cd=9&ved=0CE8QFjAI&url=http%3A%2F%2Fwww.morris.umn.edu%2F~joos%2Fus%2FReadings%2F2_US%2520in%2520NE%2520Asia%2FCumings%2520and%2520Weathersby.doc&ei=ex1wT-2HJcL5rAf_lPmgDg&usg=AFQjCNGeblnCXwTsJW_nb7YeMdvfoWO7Fg))
 
-Weathersby, Kathryn. "Soviet Aims in Korea and the Origins of the Korean War, 1945–50: New Evidence From the Russian Archives." _Cold War International History Project Working Paper No. 8_, 1993. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.wilsoncenter.org/publication/soviet-aims-korea-and-the-origins-the-korean-war-1945-50-new-evidence-the-russian))
+Weathersby, Kathryn. "Soviet Aims in Korea and the Origins of the Korean War, 1945–50: New Evidence From the Russian Archives." _Cold War International History Project Working Paper No. 8_, 1993. ([PDF](https://www.wilsoncenter.org/publication/soviet-aims-korea-and-the-origins-the-korean-war-1945-50-new-evidence-the-russian))
 
-Jian, Chen. "The Sino-Soviet Alliance and China's Entry into the Korean War." _Cold War International History Project Working Paper No. 1_, 1992. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.wilsoncenter.org/publication/the-sino-soviet-alliance-and-chinas-entry-the-korean-war))
+Jian, Chen. "The Sino-Soviet Alliance and China's Entry into the Korean War." _Cold War International History Project Working Paper No. 1_, 1992. ([PDF](https://www.wilsoncenter.org/publication/the-sino-soviet-alliance-and-chinas-entry-the-korean-war))
 
 
 {{< tdclose >}}
@@ -202,7 +202,7 @@ Christensen, Thomas J. _Useful Adversaries_. Princeton University Press, 1996, p
 
 Jian, Chen. "After Inchon: The Making of the Decision on Intervention." In _China's Road to the Korean War_. Columbia University Press, 1995, pp. 158–89. ISBN: 9780231100243.
 
-Hunt, Michael H. "Beijing and the Korean Crisis, June 1950-June 1951." _Political Science Quarterly_ 107, no. 3 (1992): 453–78. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.google.com/url?sa=t&rct=j&q=Beijing+and+the+Korean+Crisis%2C+June+1950-June+1951&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fphobos.ramapo.edu%2F~theed%2FCold_War%2Fb_Stalin_era%2Ff_NSC-68%2Freadings%2FBejing_and_Korea.pdf&ei=9SJwT4mmBYOsrAfz3sShDg&usg=AFQjCNHtSnl8JOm7Z40tO6ZyrBvHtVxY_g))
+Hunt, Michael H. "Beijing and the Korean Crisis, June 1950-June 1951." _Political Science Quarterly_ 107, no. 3 (1992): 453–78. ([PDF](http://www.google.com/url?sa=t&rct=j&q=Beijing+and+the+Korean+Crisis%2C+June+1950-June+1951&source=web&cd=1&ved=0CCYQFjAA&url=http%3A%2F%2Fphobos.ramapo.edu%2F~theed%2FCold_War%2Fb_Stalin_era%2Ff_NSC-68%2Freadings%2FBejing_and_Korea.pdf&ei=9SJwT4mmBYOsrAfz3sShDg&usg=AFQjCNHtSnl8JOm7Z40tO6ZyrBvHtVxY_g))
 
 Zhihua, Shen. "[Sino-Soviet Relations and the Origins of the Korean War: Stalin's Strategic Goals in the Far East](http://dx.doi.org/10.1162/15203970051032309)." _Journal of Cold War Studies_ 2, no. 2, (2000): 44–68.
 
@@ -234,7 +234,7 @@ Di, He. "The Evolution of the People's Republic of China's Policy Toward the Off
 
 Christensen, Thomas J. _Useful Adversaries_. Princeton University Press, 1996, pp. 194–241.
 
-Qiang, Zhai. "China and the Geneva Conference of 1954." _The China Quarterly_, no. 129 (1992): 103–22. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB](https://www.jstor.org/stable/654599?seq=1#metadata_info_tab_contents))
+Qiang, Zhai. "China and the Geneva Conference of 1954." _The China Quarterly_, no. 129 (1992): 103–22. ([PDF - 2.3MB](https://www.jstor.org/stable/654599?seq=1#metadata_info_tab_contents))
 
 Kahin, George. _Intervention: How America Became Involved in Vietnam_. Alfred A. Knopf, 1986, pp. 34–65. ISBN: 9780394543673.
 
@@ -352,7 +352,7 @@ China-Soviet Cold War
 {{< tdopen >}}
 
 
-Kuisong, Yang. "The Sino-Soviet Border Clash of 1969: From Zhenbao Island to Sino-American Rapprochement." _Cold War History_ 1, no. 1 (2000): 21–52. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.tandfonline.com/doi/abs/10.1080/713999906))
+Kuisong, Yang. "The Sino-Soviet Border Clash of 1969: From Zhenbao Island to Sino-American Rapprochement." _Cold War History_ 1, no. 1 (2000): 21–52. ([PDF](https://www.tandfonline.com/doi/abs/10.1080/713999906))
 
 Dittmer, Lowell. "Sino-American Marriage." In _Sino-Soviet Normalization and its International Implications, 1945–1990_. Washington University Press, 1993, pp. 207–16. ISBN: 9780295971186.
 
@@ -458,7 +458,7 @@ Financial Miracles
 
 Islam, Iyanatul, and Anis Chowdhury. _The Political Economy of East Asia_. Oxford University Press, 2001, pp. 1–42. ISBN: 9780195540901.
 
-Calder, Kent E. "Securing Security Through Prosperity: The San Francisco System In Comparative Perspective." _The Pacific Review_ 17, no. 1 (2004): 135–57. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://www.tandfonline.com/doi/abs/10.1080/0951274042000182447))
+Calder, Kent E. "Securing Security Through Prosperity: The San Francisco System In Comparative Perspective." _The Pacific Review_ 17, no. 1 (2004): 135–57. ([PDF](https://www.tandfonline.com/doi/abs/10.1080/0951274042000182447))
 
 ### Recommended
 
@@ -508,7 +508,7 @@ Berger, Thomas U. "[From Sword to Chrysanthemum: Japan's Culture of Anti-militar
 
 Heginbotham, Eric, and Richard J. Samuels. "[Mercantile Realism and Japanese Foreign Policy](http://dx.doi.org/10.2307/2539243)." _International Security_ 22, no. 4. (1998): 171–203.
 
-Kawasaki, Tsuyoshi. "Postclassical Realism and Japanese Security Policy." _The Pacific Review_ 14, no. 2 (2001): 221–40. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sfu.ca/~kawasaki/Kawasaki.pdf))
+Kawasaki, Tsuyoshi. "Postclassical Realism and Japanese Security Policy." _The Pacific Review_ 14, no. 2 (2001): 221–40. ([PDF](http://www.sfu.ca/~kawasaki/Kawasaki.pdf))
 
 Midford, Paul. "[Japan's Leadership Role in East Asian Security Multilateralism: The Nakayama Proposal and The Logic Of Reassurance](http://dx.doi.org/10.1080/09512740050147924)." _The Pacific Review_ 13, no. 3 (2000): 367–97.
 
@@ -534,7 +534,7 @@ Ripe for Rivalry?
 
 Friedberg, Aaron. "[Ripe for Rivalry: Prospects for Peace in a Multipolar Asia](http://www.jstor.org/discover/10.2307/2539204?uid=3737496&uid=2129&uid=2&uid=70&uid=4&sid=47698835992967)." _International Security_ 18, no. 3 (1993/1994): 5–33.
 
-Christensen, Thomas J. "[Fostering Stability or Creating a Monster? The Rise of China and U.S. Policy toward East Asia](http://dx.doi.org/10.1162/isec.2006.31.1.81)." _International Security_ 31, no. 1 (2006): 81–126. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.princeton.edu/politics/about/file-repository/public/christensen-1.pdf))
+Christensen, Thomas J. "[Fostering Stability or Creating a Monster? The Rise of China and U.S. Policy toward East Asia](http://dx.doi.org/10.1162/isec.2006.31.1.81)." _International Security_ 31, no. 1 (2006): 81–126. ([PDF](http://www.princeton.edu/politics/about/file-repository/public/christensen-1.pdf))
 
 ### Recommended
 
@@ -544,7 +544,7 @@ Berger, Thomas C. "[Set for Stability? Prospects for Conflict and Cooperation in
 
 Kang, David C. "[Getting Asia Wrong: The Need for New Analytical Frameworks](http://www.jstor.org/discover/10.2307/4137604?uid=3737496&uid=2129&uid=2&uid=70&uid=4&sid=47698835992967)." _International Security_ 27, no. 4 (2003): 57–85.
 
-Acharya, Amitav. "[Will Asia's Past Be Its Future?](https://www.researchgate.net/publication/265897537_Will_Asia's_Past_Be_Its_Future)" _International Security_ 28, no. 3 (2003/04): 149–64. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265897537_Will_Asia's_Past_Be_Its_Future))
+Acharya, Amitav. "[Will Asia's Past Be Its Future?](https://www.researchgate.net/publication/265897537_Will_Asia's_Past_Be_Its_Future)" _International Security_ 28, no. 3 (2003/04): 149–64. ([PDF](https://www.researchgate.net/publication/265897537_Will_Asia's_Past_Be_Its_Future))
 
 Ross, Robert S. "[The Geography of Peace: East Asia in the Twenty-first Century](http://www.jstor.org/discover/10.2307/2539295?uid=3737496&uid=2129&uid=2&uid=70&uid=4&sid=47698835992967)." _International Security_ 23, no. 4 (1999): 81–118.
 
@@ -554,7 +554,7 @@ Nye, Joseph S., Jr. "[The Case for Deep Engagement](http://www.foreignaffairs.co
 
 Johnson, Chalmers, and E. B. Keehn. "[The Pentagon's Ossified Strategy](http://www.foreignaffairs.com/articles/51212/chalmers-johnson-and-e-b-keehn/east-asian-security-the-pentagons-ossified-strategy)." _Foreign Affairs_ (1995): 103–14.
 
-Department of Defense. _The United States Security Strategy For The East Asia-Pacific Region 1998_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB](https://ryukyu-okinawa.net/downloads/usdod-easr98.pdf))
+Department of Defense. _The United States Security Strategy For The East Asia-Pacific Region 1998_. ([PDF - 2.3MB](https://ryukyu-okinawa.net/downloads/usdod-easr98.pdf))
 
 
 {{< tdclose >}}
@@ -574,7 +574,7 @@ Leifer, Michael. _The ASEAN Regional Forum_. Adelphi Paper No. 302. Routledge, 1
 
 Khong, Yuen Foong. "[Making Bricks without Straw in the Asia Pacific?](http://dx.doi.org/10.1080/09512749708719222)" _The Pacific Review_ 10, no. 2 (1997): 289–300.
 
-Stubbs, Richard. "ASEAN Plus Three: An Emerging East Asian Regionalism?" _Asian Survey_ 42, no. 3 (2002): 440–55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.alternative-regionalisms.org/wp-content/uploads/2009/07/stubbs_aseanplusthree.pdf))
+Stubbs, Richard. "ASEAN Plus Three: An Emerging East Asian Regionalism?" _Asian Survey_ 42, no. 3 (2002): 440–55. ([PDF](http://www.alternative-regionalisms.org/wp-content/uploads/2009/07/stubbs_aseanplusthree.pdf))
 
 ### Reference
 
@@ -620,7 +620,7 @@ Winters, Jeffrey. "The Determinants of Financial Crisis in Asia." In _The Politi
 
 Wade, Robert. "[Wheels within Wheels: Rethinking the Asian Crisis and the Asian Model](http://dx.doi.org/10.1146/annurev.polisci.3.1.85)." _Annual Review of Political Science_ 3 (2000): 85–115.
 
-Corsetti, Giancarlo, Paolo Pesenti, and Nouriel Roubini. "What Caused the Asian Currency and Financial Crisis?" _Japan and the World Economy_ 11 (1999): 305–73. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nber.org/papers/w6833))
+Corsetti, Giancarlo, Paolo Pesenti, and Nouriel Roubini. "What Caused the Asian Currency and Financial Crisis?" _Japan and the World Economy_ 11 (1999): 305–73. ([PDF](https://www.nber.org/papers/w6833))
 
 Haggard, Stephan. Introduction in _The Political Economy of the Asian Financial Crisis_. Institute for International Economics, 2000. ISBN: 9780881322835. \[Preview with [Google Books](http://books.google.com/books?id=BV7UIACI36UC&pg=PA1&redir_esc=y#v=onepage&q&f=false)\]
 
@@ -636,7 +636,7 @@ Eaton, Sarah, and Richard Stubbs. "[Is ASEAN Powerful? Neo-Realist Versus Constr
 
 Lamberte, Mario B. "An Overview of Economic Cooperation and Integration in Asia." In _Asian Economic Cooperation and Integration: Progress, Prospects, and Challenges_. Asian Development Bank, 2006. ISBN: 9789715615495.
 
-Calder, Kent, and Min Ye. "Regionalism and Critical Junctures: Explaining the 'Organization Gap' in Northeast Asia." _Journal of East Asian Studies_ 4 (2004): 191–226. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.eai.or.kr/data/bbs/eng_jeas/200907021022496.pdf))
+Calder, Kent, and Min Ye. "Regionalism and Critical Junctures: Explaining the 'Organization Gap' in Northeast Asia." _Journal of East Asian Studies_ 4 (2004): 191–226. ([PDF](http://www.eai.or.kr/data/bbs/eng_jeas/200907021022496.pdf))
 
 Desker, Barry. "[In Defence of FTAs: From Purity to Pragmatism in East Asia](http://dx.doi.org/10.1080/0951274042000182393)." _The Pacific Review_ 17, no. 1 (2004): 3–26.
 
@@ -662,7 +662,7 @@ Lee, Bernice. _The Security Implications of the New Taiwan_. Adelphi Paper No. 3
 
 Scobell, Andrew. "Show of Force: The 1995–1996 Taiwan Crisis." In _China's Use of Military Force: Beyond the Great Wall and the Long March_. Cambridge University Press, 2003, pp. 171–91. ISBN: 9780521525855. \[Preview with [Google Books](http://books.google.com/books?id=9Z9js_6soFkC&pg=PA171&redir_esc=y#v=onepage&q&f=false)\]
 
-McDevitt, Michael. "Taiwan: The Tail That Wags Dogs." _Asia Policy_ 1, no. 1 (2006): 69–93. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.jstor.org/stable/pdf/24904561.pdf))
+McDevitt, Michael. "Taiwan: The Tail That Wags Dogs." _Asia Policy_ 1, no. 1 (2006): 69–93. ([PDF](https://www.jstor.org/stable/pdf/24904561.pdf))
 
 ### Reference
 
@@ -678,7 +678,7 @@ Romberg, Alan. _Rein in at the Brink of the Precipice: American Policy Toward Ta
 
 ### Recommended
 
-Ross, Robert. "The 1996 Taiwan Strait Confrontation: Coercion, Credibility and Use of Force." _International Security_ 25, no. 2 (2000): 87–123. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://people.duke.edu/~niou/teaching/Ross.pdf))
+Ross, Robert. "The 1996 Taiwan Strait Confrontation: Coercion, Credibility and Use of Force." _International Security_ 25, no. 2 (2000): 87–123. ([PDF](http://people.duke.edu/~niou/teaching/Ross.pdf))
 
 ———. "[The Stability of Deterrence in the Taiwan Straits](http://findarticles.com/p/articles/mi_m2751/is_2001_Fall/ai_79354158/)." _The National Interest_ (2001): 67–76.
 
@@ -710,7 +710,7 @@ Snyder, Scott. "[Responses to North Korea's Nuclear Test: Capitulation or Collec
 
 ### Reference
 
-Niksch, Larry A. _North Korea's Nuclear Weapons Program_. CRS Report, October 2006.  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://fpc.state.gov/documents/organization/74904.pdf))
+Niksch, Larry A. _North Korea's Nuclear Weapons Program_. CRS Report, October 2006.  ([PDF](http://fpc.state.gov/documents/organization/74904.pdf))
 
 [Denuclearization Action Plan (February 2007)](http://2001-2009.state.gov/r/pa/prs/ps/2007/february/80479.htm)
 
@@ -722,7 +722,7 @@ Smith, Hazel. "[Bad, Mad, Sad or Rational Actor? Why the Securitization Paradigm
 
 Park, John S. "[Inside Multilateralism: The Six-Party Talks](http://dx.doi.org/10.1162/0163660054798726)." _The Washington Quarterly_ 28, no. 4 (2005): 73–91.
 
-Hughes, Christopher. "North Korea's Nuclear Weapons: Implications for the Nuclear Ambitions of Japan, South Korea, and Taiwan." _Asia Policy_, no. 3 (2007): 75–104. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.google.com/url?sa=t&rct=j&q=north%20korea's%20nuclear%20weapons%3A%20implications%20for%20the%20nuclear%20ambitions%20of%20japan%2C%20south%20korea%2C%20and%20taiwan&source=web&cd=2&ved=0CCsQFjAB&url=http%3A%2F%2Fkms1.isn.ethz.ch%2Fserviceengine%2FFiles%2FISN%2F106549%2Fichaptersection_singledocument%2F6ba9e67d-939e-4887-8be7-a42acf9c6e34%2Fen%2F2.pdf&ei=Ce1yT7LdAYqQiQLz1f2pCw&usg=AFQjCNHgrN6dPGgVhiWWwmeq9UFBo2siQw&cad=rja))
+Hughes, Christopher. "North Korea's Nuclear Weapons: Implications for the Nuclear Ambitions of Japan, South Korea, and Taiwan." _Asia Policy_, no. 3 (2007): 75–104. ([PDF](http://www.google.com/url?sa=t&rct=j&q=north%20korea's%20nuclear%20weapons%3A%20implications%20for%20the%20nuclear%20ambitions%20of%20japan%2C%20south%20korea%2C%20and%20taiwan&source=web&cd=2&ved=0CCsQFjAB&url=http%3A%2F%2Fkms1.isn.ethz.ch%2Fserviceengine%2FFiles%2FISN%2F106549%2Fichaptersection_singledocument%2F6ba9e67d-939e-4887-8be7-a42acf9c6e34%2Fen%2F2.pdf&ei=Ce1yT7LdAYqQiQLz1f2pCw&usg=AFQjCNHgrN6dPGgVhiWWwmeq9UFBo2siQw&cad=rja))
 
 Saunders, Phillip C. "Korea as Viewed from China." In _Korea: The East Asian Pivot_. Edited by Jonathan D. Pollack. Naval War College Press, 2006, pp. 233–52. ISBN: 9781884733369. \[Preview with [Google Books](http://books.google.com/books?id=eIII_0deKdcC&pg=PA233&redir_esc=y#v=onepage&q&f=false)\]
 
@@ -782,7 +782,7 @@ A New Security Dilemma?
 
 Hughes, Christopher W. Chapter 2 in _Japan's Re-emergence as a 'Normal' Military Power_. Adelphi Paper No. 368. Routledge, 2006. ISBN: 9780198567585.
 
-Mearsheimer, John J. "China's Unpeaceful Rise." _Current History_ (2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mearsheimer.uchicago.edu/pdfs/A0051.pdf))
+Mearsheimer, John J. "China's Unpeaceful Rise." _Current History_ (2006). ([PDF](http://mearsheimer.uchicago.edu/pdfs/A0051.pdf))
 
 Mochizuki, Mike M. "[Japan's Shifting Strategy Toward the Rise of China](http://dx.doi.org/10.1080/01402390701431832)." _Journal of Strategic Studies_ 30, no. 4–5 (2007): 739–76.
 
